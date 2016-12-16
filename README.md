@@ -7,6 +7,8 @@ For additional details on the module, visit...
 http://www.yuden.co.jp/ut/product/category/module/EYSGCNAWY-WX.html
 http://www.yuden.co.jp/ut/product/category/module/EYSGJNAWY-WX.html
 
+To watch the video tutorial, visit https://youtu.be/GDH1m2VI1Tg
+
 To contact your local sales office, visit http://www.ty-top.com/
 
 To purchase visit:
