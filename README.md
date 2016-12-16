@@ -1,5 +1,5 @@
 # EYSGxNAWY-WX-Programming-Tutorial
-Programming tutorial for Taiyo Yuden's EYSCNAWY-WX and EYAGJNAWY-WX Bluetooth Low Energy Module
+Programming tutorial for Taiyo Yuden's EYSGCNAWY-WX and EYAGJNAWY-WX Bluetooth Low Energy Module
 
 Significantly reduce time-to-market with TAIYO YUDEN’s FCC/IC/Japan certified EYSGCNAWY-WX & EYSGJNAWY-WX Bluetooth Low Energy module. With it's simple ASCII based programming interface, prototyping has never been easier!
 
