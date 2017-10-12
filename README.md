@@ -9,11 +9,12 @@ http://www.yuden.co.jp/ut/product/category/module/EYSGJNAWY-WX.html
 
 To watch the video tutorial, visit https://youtu.be/GDH1m2VI1Tg
 
-To contact your local sales office, visit http://www.ty-top.com/
+To contact your Taiyo Yuden local sales office, visit [http://www.ty-top.com/](http://www.ty-top.com/)    
 
-To purchase visit:
-http://www.avnet.com/
-http://www.digikey.com/
-http://www.mouser.com/
-http://www.semiconductorstore.com/
-http://www.ty-top.com/
+To purchase visit:    
+[Avnet](http://www.avnet.com)   
+[Digi-Key](http://www.digikey.com)      
+[Future Electronics](http://www.futureelectronics.com)    
+[Mouser](http://www.mouser.com)     
+[Symmtery Electronics](http://www.semiconductorstore.com)    
+[Taiyo Yuden](http://www.ty-top.com)  
