@@ -7,7 +7,7 @@ For additional details on the modules, visit...
 [http://www.yuden.co.jp/ut/product/category/module/EYSGCNAWY-WX.html](http://www.yuden.co.jp/ut/product/category/module/EYSGCNAWY-WX.html)    
 [http://www.yuden.co.jp/ut/product/category/module/EYSGJNAWY-WX.html](http://www.yuden.co.jp/ut/product/category/module/EYSGJNAWY-WX.html)
 
-To watch the video tutorial, visit https://youtu.be/GDH1m2VI1Tg
+To watch the video tutorial, visit [https://youtu.be/GDH1m2VI1Tg](https://youtu.be/GDH1m2VI1Tg)
 
 To contact your Taiyo Yuden local sales office, visit [http://www.ty-top.com/](http://www.ty-top.com/)    
 
